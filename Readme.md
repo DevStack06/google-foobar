@@ -5,7 +5,8 @@
 <h4>This repository is primarily focused on solving the google Foobar questions, and uploading them here for an overall idea of the contest and the questions standards.</h4>
 
 <ul>
-### Basically, the file structure goes like, 
+  
+<h3> Basically, the file structure goes like, </h3>
   
   <li>Foobar 1 contains the answer of 1st level question(total 1 question)</li>
   <li>Foobar2 contain answers of 2nd level question(total 2 questions)</li>
